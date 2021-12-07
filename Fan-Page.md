@@ -2,28 +2,35 @@
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Stephen Curry </b></h1>
 
 <div align="center">
-    <img    src= "https://www.deviantart.com/freddieof/art/Steph-Curry-PNG-Transparent-713498588"
+    <img    src="https://w7.pngwing.com/pngs/497/806/png-transparent-stephen-curry-holding-basketball-stephen-curry-golden-state-warriors-2014-nba-all-star-game-sports-personal-blue-sport-team-thumbnail.png"
             title="Stephen Curry"
             width="20%"
             height="20%" 
             />
 </div>
 
-<h2 align="center" >  Basketball player win 1 mvp. Fan Page!</h2>
+<h2 align="center" >  Basketball player win 1 mvp and play in Golden State Warriors. Fan Page!</h2>
 
 <br>
 
 <p>
-     Wardell Stephen Curry II, also known as Steph Curry, is an American professional basketball player for the Golden State Warriors of the National Basketball Association. He plays the point guard position, and is widely regarded as one of the greatest point guards of all time.(NBA) to championships in 2014–15, 2016–17, and 2017–18 and to the best regular-season record in league history (73–9) in 2015–16.
+    
+    
+    
+Stephen Curry is a professional basketball player born on March 14, 1988. In college he joined the Davidson College Wildcats team after receiving a scholarship. In college he played 3 seasons averaging 25 points per game. He finished the season as the top scorer in the Southern Conference and second-best rookie scorer in the country behind Kevin Durant. He scored 162 3-pointers in a ncaa-record season. Stephen Curry studied elementary education at Montessori School, later attending Queensway Christian College in Ontario from 2001 to 2002, serving on the seventh and eighth grade basketball team.
 
-Curry grew up immersed in basketball as the son of 16-year NBA veteran sharpshooter Dell Curry. The younger Curry learned the intricacies of the game from his father. His keen shooting and high “basketball IQ” were not enough to persuade college coaches to overlook his wiry frame and unremarkable 6-foot (1.8-metre) height
+Secondary education was carried out at the Charlotte Christian Institute, where he was champion of the conference three times in a row. On his slippers he wrote Christian verses, given his faith.
 </p>
+In 2009 Stephen Curry was chosen in seventh position in the 2009 NBA draft by the Golden State Warriors. He signed a contract for 12.7 million dollars for four seasons.
+He played his first game as a point guard in the NBA on October 28 of that same year against the Houston Rockets. In his first season he was selected for the All-Rookie first team.
 
+He had his first triple-double in February 2010, 36 points, 13 assists and 10 rebounds. In his second season he was awarded the NBA Sportsmanship Award.
 <br>
 
+<br>
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
-            title="Pestily"
+    <img    src="https://images.daznservices.com/di/library/NBA_Global_CMS_image_storage/2d/41/stephen-curry-two-time-most-valuable-player_6c5r1ztm19cn1g5nf3hftd1we.jpeg?t=921241292&quality=80"
+            title="Stephen Curry"
             width="50%"
             height="50%" 
             />
@@ -31,44 +38,68 @@ Curry grew up immersed in basketball as the son of 16-year NBA veteran sharpshoo
 
 <br>
 
+<div align="center">
+    <img    src= "data:image/jpeg;base64,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Vdata:image/jpeg;base64,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"
+            title= "Stephen Curry"
+            Width="50%"
+            height="50%"
+             /> 
+    
+</div>
 
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
+        <td>Stephen</td>
     </tr>
     <tr>
         <th>Age</th>
-        <td>34</td>
+        <td>33</td>
     </tr>
     <tr>
-        <th>Birthday</th>
-        <td>7th November</td>
+        <th>Rings</th>
+        <td>3</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>American</td>
     </tr>
     <tr>
-        <th>Instagram</th>
-        <td>@thisispestily</td>
+        <th>jersey number </th>
+        <td> #30 </td>
+    </tr>
+    <tr>
+        <th>Height</th>
+        <td>6'2</td>
+    </tr>
+    <tr>
+        <th>MVP</th>
+        <td>2</td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@pestily</td>
+        <td><a href="https://twitter.com/StephenCurry30"> @StephenCurry30 </a></td>
     </tr>
-    <tr>
+    <tr> 
         <th>Youtube</th>
-        <td>@pestily</td>
+        <td><a href="https://https://www.youtube.com/channel/UC_PXxlBAEnFUXy2Z240jcrQ"> @StephenCurry30 </a></td>
     </tr>
     <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <th>Birthday</th>
+        <td>March 14,1988</td>
+    </tr>
+    <tr> 
+        <th>Brother</th>
+        <td>Seth Curry</td>
     </tr>
 </table>
-
+ 
+ 
 
 <br><br>
+
+<br>
+
 
 <p>
     Made by: <u>Dereck Burgos</u> on December 2, 2021
