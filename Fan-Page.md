@@ -4,8 +4,8 @@
 <div align="center">
     <img    src="https://w7.pngwing.com/pngs/497/806/png-transparent-stephen-curry-holding-basketball-stephen-curry-golden-state-warriors-2014-nba-all-star-game-sports-personal-blue-sport-team-thumbnail.png"
             title="Stephen Curry"
-            width="20%"
-            height="20%" 
+            width="35%"
+            height="35%" 
             />
 </div>
 
