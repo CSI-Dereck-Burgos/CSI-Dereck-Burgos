@@ -1,15 +1,14 @@
 <!DOCTYPE html>
     
-    <html>
-<head>
-        <title>Page Title</title>
+ <html>
+  <head>
+          <title>Page Title</title>
     </head>
-        <body>
+        </body
         <h1>My First Heading</h1>
         <p>My first paragraph.</p>
-    </body>
-     </html>
-
+         </html>
+ 
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Stephen Curry </b></h1>
 
 <div align="center">
