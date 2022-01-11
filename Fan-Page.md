@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+    
+    <html>
+<head>
+        <title>Page Title</title>
+    </head>
+        <body>
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
+    </body>
+     </html>
 
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Stephen Curry </b></h1>
 
@@ -104,3 +115,5 @@ He had his first triple-double in February 2010, 36 points, 13 assists and 10 re
 <p>
     Made by: <u>Dereck Burgos</u> on December 2, 2021
 </p>
+</body>
+ </html>
