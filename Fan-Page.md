@@ -4,12 +4,10 @@
   <head>
           <title>Page Title</title>
     </head>
-        </body
+      
         <h1>My First Heading</h1>
         <p>My first paragraph.</p>
-         </html>
- 
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Stephen Curry </b></h1>
+    <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Stephen Curry </b></h1>
 
 <div align="center">
     <img    src="https://w7.pngwing.com/pngs/497/806/png-transparent-stephen-curry-holding-basketball-stephen-curry-golden-state-warriors-2014-nba-all-star-game-sports-personal-blue-sport-team-thumbnail.png"
@@ -116,3 +114,7 @@ He had his first triple-double in February 2010, 36 points, 13 assists and 10 re
 </p>
 </body>
  </html>
+
+    </body>
+         </html>
+ 
